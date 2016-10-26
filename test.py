@@ -6,3 +6,5 @@ def circumference(x,output):
     output=2*pi*x
     
     %test 
+    
+    print('Hello Fede')
